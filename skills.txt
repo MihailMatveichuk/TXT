@@ -1,0 +1,3 @@
+Written requests :"POST","PULL","DELETE","HEAD","OPTIONS",
+Check mistakes : 100,200,300,400,500,
+Check body of response : All information will be checked
