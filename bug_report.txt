@@ -1,1 +1,3 @@
-
+RQ1 : High-2, Medium-15, Low-24,
+RQ2 : High-4, Medium-11, Low-20,
+RQ3 : High-6, Medium-10, Low-18
