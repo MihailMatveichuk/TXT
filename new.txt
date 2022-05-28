@@ -1,0 +1,4 @@
+Full name: Matveichuk Mikhail Urievich,
+Age: 33,
+Amount of pets: 1,
+Desirable salary in future: 1500 $
